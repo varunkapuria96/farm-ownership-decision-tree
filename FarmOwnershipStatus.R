@@ -14,8 +14,8 @@ library(tidyverse)
 library(rpart)
 library(rpart.plot)
 
-# Setting the working directory to your Lab09 folder
-setwd("C:/Users/ual-laptop/Desktop/MIS545/Lab09")
+# Setting the working directory to your folder
+# setwd("C:/Users/ual-laptop/Desktop/MIS545/Lab09")
 
 # Reading IndonesianRiceFarms.csv into a tibble called riceFarms
 riceFarms <- read_csv("IndonesianRiceFarms.csv",
