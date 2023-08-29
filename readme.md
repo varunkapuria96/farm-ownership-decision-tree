@@ -63,7 +63,3 @@ The code performs the following tasks:
 The dataset, "IndonesianRiceFarms.csv," contains information about Indonesian rice farms, including the independent variables used for prediction and the target variable, `FarmOwnership` (0 for sharecropped, 1 for farmer-owned).
 
 Please ensure you have this dataset in the same directory as the R script or update the file path accordingly.
-
-## License
-
-This project is licensed under the MIT License. You are free to use and modify the code for your own projects.
