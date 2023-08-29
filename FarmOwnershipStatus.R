@@ -1,6 +1,3 @@
-# Medha Singh, Varun Kapuria
-# MIS 545 Section 01
-# Lab089Group12SinghKapuria.R
 # The following code predicts a farms ownership status (farmer owned or 
 # sharecropped) based on independent variables of hectares, seed price, 
 # hired labor, family labor, avg wage, and region. 
